@@ -1,0 +1,15 @@
+{
+  "name": "hydra-ts-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Net-0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Net-0/hydra-ts-tools/issues"
+  },
+  "homepage": "https://github.com/Net-0/hydra-ts-tools#readme"
+}

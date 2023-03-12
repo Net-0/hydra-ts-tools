@@ -1,0 +1,6 @@
+export { default as Clazz } from './Clazz'
+export { default as ChangeHistory } from './ChangeHistory'
+export { Descriptor, PropertyDescriptor, MethodDescriptor, ProxyDescriptor } from './Descriptors'
+export { default as Element } from './Element'
+export { default as Observable } from './Observable'
+export { default as Reflection } from './Reflection'
